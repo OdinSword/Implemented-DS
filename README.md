@@ -1,2 +1,2 @@
 # Implemented-DS
-Programs for the implementations of different data structures.
+Assignment for the implementations of different data structures.
